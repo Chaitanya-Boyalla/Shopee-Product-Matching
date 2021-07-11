@@ -3,7 +3,7 @@
 ## Business Problem:
 Shopee is a leading online e-commerce platform which enables users to buy and sell products online. It focuses on e-commerce and operates its business mainly in South Asian countries. Customers appreciate its easy, secure, and fast online shopping experience tailored to their region. The company also provides strong payment and logistical support along with a 'Lowest Price Guaranteed' feature on thousands of Shopee's listed products. In this competition they open sourced images of products with descriptions and expect Machine Learning practitioners to build models that identify similar products based on images and descriptions.
 
-## Performance Metric::
+## Performance Metric:
 The performance metric of this problem is F1-score averaged over postings. Which means the F1-score is computed on each product using its matches and the average of all products is taken.
 
 ## ArcFace Reference Paper: https://arxiv.org/pdf/1801.07698.pdf
